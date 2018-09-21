@@ -1,0 +1,7 @@
+{
+    "Turing": ["Hoare", "Dijkstra"],
+    "Hoare": ["Turing", "Dijkstra", "Codd"],
+    "Dijkstra": [],
+    "Knuth": ["Turing", "Dijkstra"],
+    "Codd": ["Turing", "Dijkstra", "Knuth"]
+}
